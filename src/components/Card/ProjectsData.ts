@@ -86,8 +86,8 @@ export const projects: Project[] = [
 		image: ConvertMoney,
 		description:
 			"O objetivo principal dessa aplicação é proporcionar aos usuários a capacidade de realizar conversões de valores de moedas de diferentes países.",
-		github: "",
-		deploy: "",
+		github: "https://github.com/andresperes33/conversor-de-moedas",
+		deploy: "https://andresperes33.github.io/conversor-de-moedas/",
 		technologies: ["Html", "Css", "JavaScript", "Express"],
 	},
 	{
