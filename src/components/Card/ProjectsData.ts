@@ -53,7 +53,7 @@ export const projects: Project[] = [
 	},
 	{
 		id: 3,
-		title: "Ecommerce de Eletronicos",
+		title: "Ecommerce de Eletrônicos",
 		image: GithubFinder,
 		description:
 			"Este projeto é um site de ecommerce chamado Red Store.",
