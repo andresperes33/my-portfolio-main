@@ -47,8 +47,8 @@ export const projects: Project[] = [
 		image: CarProject,
 		description:
 			"Para este projeto, desenvolvi uma landing page de amostra de carros utilizando HTML, CSS e JavaScript. O objetivo foi criar um site dinâmico e visualmente atraente que destaca as principais características dos veículos exibidos.",
-		github: "",
-		deploy: "",
+		github: "https://github.com/andresperes33/Site-tesla?tab=readme-ov-file",
+		deploy: "https://andresperes33.github.io/Site-tesla/",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 	{
