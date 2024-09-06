@@ -48,7 +48,7 @@ export const projects: Project[] = [
 		description:
 			"Para este projeto, desenvolvi uma landing page de amostra de carros utilizando HTML, CSS e JavaScript. O objetivo foi criar um site dinâmico e visualmente atraente que destaca as principais características dos veículos exibidos.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/Page_Car/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 	{
@@ -59,7 +59,7 @@ export const projects: Project[] = [
 			"Projeto em React com TypeScript consumindo api do github para encontrar usuários e retornar dados, usei o react-router-dom para criar um novo path onde listar os melhores repositórios do usuário.",
 		github: "",
 		deploy:
-			"https://github-finder-mi7noflz7-joaobatista22s-projects.vercel.app/",
+			"",
 		technologies: [
 			"Vite",
 			"React",
@@ -87,7 +87,7 @@ export const projects: Project[] = [
 		description:
 			"O objetivo principal dessa aplicação é proporcionar aos usuários a capacidade de realizar conversões de valores de moedas de diferentes países.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/ProgetoMoney/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript", "Express"],
 	},
 	{
@@ -114,7 +114,7 @@ export const projects: Project[] = [
 		description:
 			"O objetivo principal dessa aplicação é sortear um numero aleatorio entre o numero inicial e o final que cosiste na escolha do usuaro.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/PROJETO-DEVSORTEIO/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 	{
@@ -124,7 +124,7 @@ export const projects: Project[] = [
 		description:
 			"Criei uma landing page inspirada no universo do anime One Piece, com o objetivo de capturar a essência e o estilo visual da série. A página foi projetada para ser atraente e fácil de navegar, proporcionando uma experiência imersiva aos fãs do anime.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/One-Piece-Landing-Page/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 	{
@@ -134,7 +134,7 @@ export const projects: Project[] = [
 		description:
 			"Site Projetado para o cliente de ferragens e suportes de calhas. (Atualmente no ar)",
 		github: "",
-		deploy: "https://rssuportes.com.br/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript", "Bootstrap"],
 	},
 	{
@@ -143,7 +143,7 @@ export const projects: Project[] = [
 		image: Starbucks,
 		description: "LandingPage do Starbucks.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/Starbucks-LandingPage/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 	{
@@ -153,7 +153,7 @@ export const projects: Project[] = [
 		description:
 			"A arquitetura deste projeto backend é modular e organizada. Contendo controllers, middlewares, models, e esquemas de dados (schemas). A pasta config contém configurações de autenticação (auth.js), banco de dados, e upload de arquivos. A pasta database possui arquivos de configuração e inicialização do banco de dados.",
 		github: "",
-		deploy: "https://github.com/Joaobatista22",
+		deploy: "",
 		technologies: ["Node", "Backend", "JavaScript", "Git"],
 	},
 	{
@@ -162,7 +162,7 @@ export const projects: Project[] = [
 		image: Gta,
 		description: "LandingPage do Grand Theft Auto.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/Projeto-GTA/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 	{
@@ -171,7 +171,7 @@ export const projects: Project[] = [
 		image: Netflix,
 		description: "LandingPage do Netflix.",
 		github: "",
-		deploy: "https://joaobatista22.github.io/projeto-netflix/",
+		deploy: "",
 		technologies: ["Html", "Css", "JavaScript"],
 	},
 ];
