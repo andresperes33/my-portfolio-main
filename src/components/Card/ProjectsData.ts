@@ -53,13 +53,13 @@ export const projects: Project[] = [
 	},
 	{
 		id: 3,
-		title: "Github Finder",
+		title: "Ecommerce de Eletronicos",
 		image: GithubFinder,
 		description:
-			"Projeto em React com TypeScript consumindo api do github para encontrar usuários e retornar dados, usei o react-router-dom para criar um novo path onde listar os melhores repositórios do usuário.",
-		github: "",
+			"Este projeto é um site de ecommerce chamado Red Store.",
+		github: "https://github.com/andresperes33/ecommerce",
 		deploy:
-			"",
+			"https://andresperes33.github.io/ecommerce/",
 		technologies: [
 			"Vite",
 			"React",
